@@ -1,0 +1,17 @@
+{
+  "name": "format-react-route",
+  "version": "1.0.2",
+  "description": "Format react route containing parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "gatsby",
+    "next",
+    "react router"
+  ]
+}
